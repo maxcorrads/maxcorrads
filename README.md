@@ -24,6 +24,7 @@ rather work with good people on a product worth building than fill a calendar.
 
 | | |
 |---|---|
+| **[Hivemind](https://github.com/maxcorrads/hivemind)** | A local Slack for you and your AI coding agents. Brains plan and delegate, workers from Codex, Claude Code and OpenCode deliver, all in channels, DMs and structured tasks you can follow. Native macOS and iOS apps. TypeScript · Swift · Apache 2.0 |
 | **[Conductor](https://github.com/maxcorrads/Conductor)** | A tiny, local message bus that lets visible Codex CLI sessions coordinate their own worker pools in tmux. Go · MIT |
 | **[Schiera](https://github.com/maxcorrads/schiera)** | macOS menu-bar utility that arranges terminal windows per display and per workflow. Swift · MIT · signed releases |
 | **[Catapush iOS SDK](https://github.com/Catapush/catapush-ios-sdk-pod)** | Reliable push notifications for iOS apps. I maintain the iOS side. |
